@@ -53,9 +53,8 @@ FROM [dbo].[Orders]
 GROUP BY Region
 ORDER BY Total_Sales_per_Region DESC
 
-
 # Концептуальная модель данных
-![Image alt](
-https://github.com/PaulinKingsly/Data-learn/blob/main/module_2/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B4.PNG)
+
+![Image alt](https://github.com/PaulinKingsly/Data-learn/blob/main/module_2/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B4.PNG)
 
 
